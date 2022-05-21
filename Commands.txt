@@ -103,6 +103,11 @@ Verificar se existe um repositorio remoto:
 
 git remote
 
+Upar no git hub:
+
+
+
+
 
 
 
