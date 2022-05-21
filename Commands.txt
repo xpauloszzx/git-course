@@ -1,0 +1,107 @@
+Inicial commands: 
+
+
+git version 
+
+git config --global user.name "seu nome"
+
+git config --global user.email "seu email"
+
+
+git config user.name
+git config user.email 
+
+git config core.editor "caminho do executavel do editor"
+
+pwd - exibe onde vc esta 
+
+cd - mudar de lucar
+cd /c
+ls - lista todos arquivos e diretorios
+mkdir - cria uma pasta em um diretorio 
+
+touch - cria um arquivo . Ex: oi.txt
+
+
+
+p2: 
+
+git init - criar um repositorio local
+
+.git - o projeto vai estar armazenado aqui
+
+git add -> adicionar arquivo ao repositorio local
+
+git status: ver o status de alterãções
+
+git commit -am "digite algo aqui"
+
+git log - ver os commits
+
+git log --oneline  - ver os commits resumidos em apenas 1 linha
+
+git log --graph -  grapgráfico de commits 
+
+git branch = diz o ramo onde o projeto se encontra
+
+
+recuperar versao anterior do projeto:
+
+git checkout hash_do_commit
+ex:
+git checkout bc4836c
+
+Para retornar a ultima versao do projeto:
+
+git checkout master
+
+
+ver modificaçoes no arquivo: 
+git diff
+
+Desfazer alterações: 
+
+git checkout nome_do_arquivo
+
+
+Removendo um commit: 
+
+git reset --hard _hash_do_comit 
+
+Para remover o commit é necessário passar o HEAD para 
+a hash anterior ao commit que foi dado..
+
+
+
+Criar ramificações no projeto :
+
+Por padrao quando se cria um repositorio todas as modificações são na branch master.
+
+Para criar outras branchs: 
+
+git checkout -b nome_branch
+
+
+A branch nova é quem vai ficar responsável agora pelos novos commits
+
+Retornar ao ramo master: 
+
+git checkout master
+
+Unir as duas branchs: 
+
+git merge nome_da_branch
+
+
+Verificar se existe um repositorio remoto:
+
+git remote
+
+
+
+
+
+
+
+
+
