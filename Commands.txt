@@ -107,6 +107,9 @@ Upar no git hub:
 
 git push
 
+Baixar repositorio do github:
+
+git clone url_repositorio
 
 
 
