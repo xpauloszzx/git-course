@@ -1,4 +1,5 @@
-Inicial commands: 
+Configurações iniciais;
+
 
 
 git version 
@@ -8,23 +9,28 @@ git config --global user.name "seu nome"
 git config --global user.email "seu email"
 
 
+Checar nome e user name registrado: 
+
 git config user.name
 git config user.email 
 
+
+Mudar o editor padrão escolhido: 
+
+
 git config core.editor "caminho do executavel do editor"
 
-pwd - exibe onde vc esta 
+Comandos basicos terminal windows: 
 
+
+pwd - exibe onde vc esta 
 cd - mudar de lucar
-cd /c
 ls - lista todos arquivos e diretorios
 mkdir - cria uma pasta em um diretorio 
-
 touch - cria um arquivo . Ex: oi.txt
 
 
-
-p2: 
+>> GIT
 
 git init - criar um repositorio local
 
