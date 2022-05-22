@@ -120,7 +120,6 @@ Sincronizar para resolver conflitos:
 git fetch 
 
 
-References: yt.com
 
 
 
