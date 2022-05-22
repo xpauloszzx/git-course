@@ -117,7 +117,12 @@ Sincronizar as alterãçoes feitas no github (repositorio remoto) com o reposit�
 git pull
 
 Sincronizar para resolver conflitos:
+Por exemplo quando duas pessoas ou mais estiver trabalhando
+no mesmo arquivo.
+
 git fetch 
+
+
 
 
 
