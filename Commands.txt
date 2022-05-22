@@ -128,6 +128,12 @@ Documentação MarkDown para readme:
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
+Personalizar readme especial :
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+
+
 
 
 
