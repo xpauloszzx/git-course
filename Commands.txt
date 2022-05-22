@@ -116,7 +116,9 @@ Sincronizar as alterãçoes feitas no github (repositorio remoto) com o reposit�
 
 git pull
 
+Sincronizar para resolver conflitos:
 
+git fetch 
 
 
 
