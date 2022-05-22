@@ -74,8 +74,9 @@ Removendo um commit:
 
 git reset --hard _hash_do_comit 
 
-Para remover o commit é necessário passar o HEAD para 
-a hash anterior ao commit que foi dado..
+Basicamente oque vai acontecer é fazer a head apontar
+para outro comit. Ou seja, desconsiderando aquele(s)
+Commits que estavam anteriormente sendo apontado pela HEAD. 
 
 
 
@@ -110,6 +111,16 @@ git push
 Baixar repositorio do github:
 
 git clone url_repositorio
+
+Sincronizar as alterãçoes feitas no github (repositorio remoto) com o repositório local (PC):
+
+git pull
+
+
+
+
+
+
 
 
 
